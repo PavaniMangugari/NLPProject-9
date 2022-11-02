@@ -14,3 +14,5 @@ we have done
 3. Text summarization 
     using abstractive and extractive summarization
 4. Using bigram model
+
+We have used these approaches for the first increment
