@@ -6,3 +6,9 @@ Team members: 4
 2. Tharun Puri
 3. Achala Samudrala (Team Lead)
 4. Venkata Sai Preetham Bonthala
+
+For increment-1
+we have done
+1. Speech to text conversion
+2. Text puntuation and capitalization
+3. Text summarization
