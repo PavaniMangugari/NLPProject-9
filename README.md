@@ -15,4 +15,8 @@ we have done
     using abstractive and extractive summarization
 4. Using bigram model
 
-We have used these approaches for the first increment
+For the final increment
+we have done
+1. Question answering model
+2. Text translation
+
